@@ -25,6 +25,7 @@ public class LargestNum {
 	
 	public static void main(String[] args) {
 		findLargestNum();
+		
 	}
 
 }
